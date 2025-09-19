@@ -14,7 +14,7 @@ Funds are locked in the contract during the booking period and are automatically
 
 ### 🔹 Current Problems in Parking Rentals
 
-- ❌ Double-booking due to poor coordination
+- ❌ Double-booking due to poor coordination 
 - ❌ No transparency in pricing or payment handling
 - ❌ Disputes between renters & owners (late arrivals, cancellations)
 - ❌ Middlemen platforms charge high fees
