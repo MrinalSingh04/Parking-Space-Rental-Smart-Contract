@@ -8,7 +8,7 @@ It allows **owners** to list their parking spaces on-chain and **renters** to bo
 Each successful rental generates an **NFT Parking Pass**, which acts as digital proof of reservation.  
 Funds are locked in the contract during the booking period and are automatically released to the owner once the rental ends.
 
----  
+---   
   
 ## ❓ Why Build This?    
 
