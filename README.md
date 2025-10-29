@@ -1,6 +1,6 @@
 # Parking Space Rental Smart Contract
 
-## 📌 Overview 
+## 📌 Overview  
  
 The **Parking Space Rental Contract** is a decentralized system for managing parking spot rentals.  
 It allows **owners** to list their parking spaces on-chain and **renters** to book them for a specified number of hours by paying in cryptocurrency.
