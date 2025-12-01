@@ -11,7 +11,7 @@ Funds are locked in the contract during the booking period and are automatically
 ---          
                
 ## ❓ Why Build This?         
-        
+         
 ### 🔹 Current Problems in Parking Rentals     
  
 - ❌ Double-booking due to poor coordination 
